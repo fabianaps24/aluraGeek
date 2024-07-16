@@ -1,0 +1,98 @@
+{
+  "Produtos": [
+    {
+      "id": "0",
+      "nome": "Caneca Super Mario",
+      "valor": "60,00",
+      "imagem": "./assets/canecaSuperMario.jpeg",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "1",
+      "nome": "Caneca Super Mario 2",
+      "valor": "60,00",
+      "imagem": "./assets/canecaSuperMario2.jpeg",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "3",
+      "nome": "Jogo Super Mario",
+      "valor": "180,00",
+      "imagem": "./assets/jogoPulaPirata.jpeg",
+      "status": false,
+      "categoria": "jogo"
+    },
+    {
+      "id": "4",
+      "nome": "Jogo Super Mario",
+      "valor": "190,00",
+      "imagem": "./assets/ataque.jpeg",
+      "status": false,
+      "categoria": "jogo"
+    },
+    {
+      "id": "5",
+      "nome": "Agenda Super Mario",
+      "valor": "55,00",
+      "imagem": "./assets/agenda.jpeg",
+      "status": false,
+      "categoria": "agenda"
+    },
+    {
+      "id": "6",
+      "nome": "Aventura Game",
+      "valor": "130,00",
+      "imagem": "./assets/aventureGame.jpeg",
+      "status": false,
+      "categoria": "jogo"
+    },
+    {
+      "id": "7",
+      "nome": "Caderno Super Mario",
+      "valor": "35,00",
+      "imagem": "./assets/caderno.jpeg",
+      "status": false,
+      "categoria": "caderno"
+    },
+    {
+      "id": "8",
+      "nome": "Camiseta Super Mario",
+      "valor": "120,00",
+      "imagem": "./assets/camiseta1.jpeg",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "9",
+      "nome": "Camiseta Super Mario 2",
+      "valor": "130,00",
+      "imagem": "./assets/camiseta2.jpeg",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "10",
+      "nome": "Camiseta Super Mario 3",
+      "valor": "130,00",
+      "imagem": "./assets/camiseta3.jpeg",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "11",
+      "nome": "Chaveiro Super Mario",
+      "valor": "40,00",
+      "imagem": "./assets/chaveiro.jpeg",
+      "status": false,
+      "categoria": "chaveiro"
+    },
+    {
+      "id": "12",
+      "nome": "Chaveiro Super Mario 2",
+      "valor": "40,00",
+      "imagem": "./assets/chaveiro2.jpeg",
+      "status": false,
+      "categoria": "chaveiro"
+    }
